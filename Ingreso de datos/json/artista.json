@@ -1,0 +1,23 @@
+[
+	{
+		"Id_Art" : 1,
+		"Art_Email" : "Rolo@colo.co",
+		"Art_Name" : "Rolitos",
+		"Art_Cuit" : 2032852654,
+		"Art_Phone" : 1156279541
+	},
+	{
+		"Id_Art" : 2,
+		"Art_Email" : "bigger@gmail.com",
+		"Art_Name" : "Bigger",
+		"Art_Cuit" : 2029850215,
+		"Art_Phone" : 1196325574
+	},
+	{
+		"Id_Art" : 3,
+		"Art_Email" : "Parte@planeta.nx",
+		"Art_Name" : "Parteplaneta",
+		"Art_Cuit" : 2092582624,
+		"Art_Phone" : 1154859541
+	}
+]

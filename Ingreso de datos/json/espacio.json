@@ -1,0 +1,26 @@
+[
+	{
+		"Id_Esp" : 1,
+		"Esp_Adress" : "Alcorta 622",
+		"Esp_Email" : "Quimica@flow.com",
+		"Esp_Name" : "Quimica",
+		"Esp_Capacity" : 5000,
+		"Esp_Phone" : 299256354
+	},
+	{
+		"Id_Esp" : 2,
+		"Esp_Adress" : "niceto 922",
+		"Esp_Email" : "niceto@terra.com",
+		"Esp_Name" : "niceto",
+		"Esp_Capacity" : 2500,
+		"Esp_Phone" : 116538555
+	},
+	{
+		"Id_Esp" : 3,
+		"Esp_Adress" : "Corrientes 52",
+		"Esp_Email" : "Emergente@ortuzar.co",
+		"Esp_Name" : "Emergente",
+		"Esp_Capacity" : 1600,
+		"Esp_Phone" : 119562541
+	}
+]

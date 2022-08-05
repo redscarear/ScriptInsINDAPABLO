@@ -1,0 +1,29 @@
+[
+	{
+		"Id_Emp" : 1,
+		"Emp_Espec" : "Sonido",
+		"Emp_Email" : "ramones@gmail.com",
+		"Emp_Name" : "Guillermo",
+		"Emp_Lastname" : "Gonzalez",
+		"Emp_Phone" : 118563547,
+		"Emp_Cuit" : 275232552
+	},
+	{
+		"Id_Emp" : 2,
+		"Emp_Espec" : "iluminacion",
+		"Emp_Email" : "lean@fito.es",
+		"Emp_Name" : "Leandro",
+		"Emp_Lastname" : "Ousset",
+		"Emp_Phone" : 118751547,
+		"Emp_Cuit" : 277732552
+	},
+	{
+		"Id_Emp" : 3,
+		"Emp_Espec" : "Seguridad",
+		"Emp_Email" : "Jorge@hotmail.com",
+		"Emp_Name" : "Jorge",
+		"Emp_Lastname" : "Lista",
+		"Emp_Phone" : 118441547,
+		"Emp_Cuit" : 277785252
+	}
+]

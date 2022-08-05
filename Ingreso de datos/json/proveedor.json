@@ -1,0 +1,34 @@
+[
+	{
+		"Id_Prov" : 9,
+		"Prov_Espec" : "catering",
+		"Prov_Email" : "polloshermanos@fringe.tx",
+		"Prov_Name" : "Pollos hermanos",
+		"Prov_Phone" : 1159268856,
+		"Prov_Cuit" : 302596215
+	},
+	{
+		"Id_Prov" : 10,
+		"Prov_Espec" : "iluminacion",
+		"Prov_Email" : "thunder@force.jp",
+		"Prov_Name" : "Thunder Force",
+		"Prov_Phone" : 299862354,
+		"Prov_Cuit" : 329665834
+	},
+	{
+		"Id_Prov" : 11,
+		"Prov_Espec" : "transporte",
+		"Prov_Email" : "transoceanica@terra.es",
+		"Prov_Name" : "Transoceanica",
+		"Prov_Phone" : 220536504,
+		"Prov_Cuit" : 359558610
+	},
+	{
+		"Id_Prov" : 12,
+		"Prov_Espec" : "imprenta",
+		"Prov_Email" : "impremax@yahoo.com",
+		"Prov_Name" : "Impremax",
+		"Prov_Phone" : 118965324,
+		"Prov_Cuit" : 362201479
+	}
+]

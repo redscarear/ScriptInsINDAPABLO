@@ -1,0 +1,26 @@
+[
+	{
+		"Id_Prod" : 1,
+		"Prod_Name" : "Maru",
+		"Prod_LastName" : "Polak",
+		"Prod_Phone" : 119536254,
+		"Prod_Email" : "maru@polak.pk",
+		"Prod_Cuit" : 273021685
+	},
+	{
+		"Id_Prod" : 2,
+		"Prod_Name" : "Luciano",
+		"Prod_LastName" : "Villace",
+		"Prod_Phone" : 115982632,
+		"Prod_Email" : "luciano@human.com",
+		"Prod_Cuit" : 203269547
+	},
+	{
+		"Id_Prod" : 3,
+		"Prod_Name" : "Fernando",
+		"Prod_LastName" : "taborda",
+		"Prod_Phone" : 118526582,
+		"Prod_Email" : "oliver@knos.com",
+		"Prod_Cuit" : 20255652
+	}
+]
